@@ -1,5 +1,5 @@
 # Compiled output
-*.class
+
 out/
 bin/
 target/        # Maven
