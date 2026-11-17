@@ -1,0 +1,45 @@
+# Compiled output
+*.class
+out/
+bin/
+target/        # Maven
+build/         # Gradle
+.gradle/
+
+# Packaged artifacts
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and local config
+.env
+*.local.properties
